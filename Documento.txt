@@ -1,6 +1,8 @@
 Isso é um Documento de Teste
 ou será que é Teste de Documento?
 
-Nunca saberemos !
+Nunca saberemos!
 
 :o
+
+Nova alteração!
